@@ -1,2 +1,2 @@
-# personal_website
-Repo for my personal website
+# Ciao!
+This is the repo for my personal website
