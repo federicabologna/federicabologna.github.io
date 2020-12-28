@@ -26,8 +26,9 @@ url: "https://federicabologna.github.io" # the base hostname & protocol for your
 twitter_username: FedericaBologna
 github_username:  federicabologna
 
-# Build settings
-theme: minima
+# Build settingsbu
+#Hashtag to remove minima theme and use regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
