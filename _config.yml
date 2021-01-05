@@ -27,7 +27,7 @@ twitter_username: FedericaBologna
 github_username:  federicabologna
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
