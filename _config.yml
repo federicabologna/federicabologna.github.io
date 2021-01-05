@@ -22,13 +22,12 @@ title: Federica Bologna
 email: federica.bologna17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://federicabologna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://federicabologna.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FedericaBologna
 github_username:  federicabologna
 
-# Build settingsbu
-#Hashtag to remove minima theme and use regular theme
-#theme: minima
+# Build settings
+theme: minima
 plugins:
   - jekyll-feed
 
