@@ -29,7 +29,7 @@ github_username:  federicabologna
 
 # Build settings
 # Removed minima theme, it is a regular theme now.
-#theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
