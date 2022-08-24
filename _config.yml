@@ -21,11 +21,11 @@
 title: Federica Bologna
 email: fb265@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a PhD student in Information Science at Cornell University, where I am advised by Matthew Wilkens. My research focuses on Natural Language Processing, Computational Social Science and Cultural Analytics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://federicabologna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: federicabologna
 github_username:  federicabologna
+linkedin_username: federica-bologna
 
 # Build settings
 # Removed minima theme, it is a regular theme now.
