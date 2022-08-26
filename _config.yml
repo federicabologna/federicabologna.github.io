@@ -27,11 +27,18 @@ twitter_username: federicabologna
 github_username:  federicabologna
 linkedin_username: federica-bologna
 
+header_pages:
+  - CV.markdown
+  - publications.markdown
+  - code.markdown
+  - contact.markdown
+
 # Build settings
 # Removed minima theme, it is a regular theme now.
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
