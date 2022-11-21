@@ -7,7 +7,7 @@ User Needs and Peer Support in Endometriosis Online Communities  <br/>
 **Federica Bologna**, [Rosamond Thalken](https://rosamondthalken.com/){:target="_blank"}, [David Mimno](https://mimno.infosci.cornell.edu/){:target="_blank"}, and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
 (Under review)<br/>
 
-[Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://arxiv.org/abs/2103.07942){:target="_blank"}  <br/>
+[Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}  <br/>
 **Federica Bologna**, [Angelo Di Iorio](https://www.unibo.it/sitoweb/angelo.diiorio/en){:target="_blank"}, [Silvio Peroni](https://essepuntato.it/){:target="_blank"}, and [Francesco Poggi](http://personale.unimore.it/rubrica/dettaglio/fpoggi){:target="_blank"}  <br/>
 Scientometrics (Forthcoming)<br/>
 
