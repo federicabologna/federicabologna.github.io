@@ -22,4 +22,4 @@ Prior to joining Cornell, I've worked as a Research Assistant at the University 
 I received a Master's degree in Modern, Post-colonial and Comparative Literature at the University of Bologna, Italy, with a thesis on computational approaches to model urban space in science fiction literature. This work resulted in [a publication on _The Journal of Cultural Analytics_](https://doi.org/10.22148/001c.18120){:target="_blank"}.
 
 
-Photo: [https://www.instagram.com/tagazd/](Davide Tagazzini)
+Photo: [Davide Tagazzini](https://www.instagram.com/tagazd/)

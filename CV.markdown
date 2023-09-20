@@ -4,8 +4,8 @@ title: CV
 permalink: /CV and Resume/
 ---
 
-[Here is my CV](/assets/Bologna_Federica_CV_202211031.pdf) updated to October '22.  
+[Here is my CV](/assets/Bologna_Federica_CV.pdf) updated to September '23.  
 
-[Here is my Resume](/assets/Bologna_Federica_resume_202211031.pdf) updated to October '22.
+[Here is my Resume](/assets/Bologna_Federica_resume.pdf) updated to September '23.
 
-To build my CV, I used [Sherry Yong Chen](https://sherrychen.org){:target="_blank"}'s LaTeX template.
+Feel free to email me if you would like to use the same LaTeX templates I use for my Resume and CV, and I will share them with you :)
