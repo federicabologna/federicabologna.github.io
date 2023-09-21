@@ -10,7 +10,7 @@ title: ''
 
 ## About me
 
-### I'm a PhD student in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I study how <u>natural language processing</u> can promote <u>patient-centered perspectives</u> in clinical care, and gender discrimination in <u>fiction readership</u>. 
+### I'm a PhD student in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I leverage  <u>natural language processing</u> to promote <u>patient-centered perspectives</u> in clinical care, and to measure the gender gap in <u>fiction readership</u>. 
 
 <br/>
 
