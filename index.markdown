@@ -31,7 +31,7 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 ## News
 
 | ---- | --------- |
-| Nov 2023 | Speaking at [AAGL 2023](https://congress.aagl.org/) about endometriosis online communities and machine learning we can improve care and reduce diagnostic wait times. |
+| Nov 2023 | Speaking at [AAGL 2023](https://congress.aagl.org/) about how we can use endometriosis online communities and machine learning to improve care and reduce diagnostic wait times. |
 | Sep 2023 | Attending Grace Hopper Celebration 2023 virtually. |
 | Summer 2023 | Working with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) on the integration of medical alerts within nurses workflows to reduce fatigue as PiTech Fellow.|
 | Jun 2023 | Awarded the **Outstanding Teaching Award** for TAing for [INFO 3370: Studying Social Inequality with Data Science](https://info3370.github.io/) taught by [Ian Lundberg](https://www.ianlundberg.org/). |
