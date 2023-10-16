@@ -32,12 +32,13 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 
 | ---- | --------- |
 | Nov 2023 | Speaking at [AAGL 2023](https://congress.aagl.org/) about how we can use endometriosis online communities and machine learning to improve care and reduce diagnostic wait times. |
+| Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
 | Sep 2023 | Attending Grace Hopper Celebration 2023 virtually. |
-| Summer 2023 | Working with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) on the integration of medical alerts within nurses workflows to reduce fatigue as PiTech Fellow.|
+| Jul 2023 | Working with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) on the integration of medical alerts within nurses workflows to reduce fatigue as PiTech Fellow.|
 | Jun 2023 | Awarded the **Outstanding Teaching Award** for TAing for [INFO 3370: Studying Social Inequality with Data Science](https://info3370.github.io/) taught by [Ian Lundberg](https://www.ianlundberg.org/). |
 | May 2023 | Awarded the [Siegel Family Endowment PiTech PhD Impact Fellowship](https://www.pi.tech.cornell.edu/). |
 | May 2023 | Selected to attend Grace Hopper Celebration 2023 virtually. |
-| April 2023 | Delivered a lecture on [Nonparametric Estimators of Causal Effects](https://info3370.github.io/lessonplans/8c/). |
+| Apr 2023 | Delivered a lecture on [Nonparametric Estimators of Causal Effects](https://info3370.github.io/lessonplans/8c/). |
 
 
 <sub>Photo: [Davide Tagazzini](https://www.instagram.com/tagazd/)</sub>
