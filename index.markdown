@@ -10,13 +10,13 @@ title: ''
 
 ## About me
 
-### I'm a PhD student in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I leverage  <u>natural language processing</u> to promote <u>patient-centered perspectives</u> in clinical care, and to measure the gender gap in <u>fiction readership</u>. 
+### I'm a PhD student in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I leverage  <u>natural language processing</u> (NLP) and <u>qualitative</u> methods to support <u>patient-centered care</u>, and measure the gender gap in <u>fiction readership</u>. 
 
 <br/>
 
 <!-- Currently, I am working on two projects. The most recent is dedicated to evaluating the suitability of GPT models for patient question answering. The second most recent aims to measure whether gender discrimination in fiction readership. -->
 
-As [PiTech Impact Fellow](https://www.pi.tech.cornell.edu/), I have worked with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) to better integrate medical alerts within nurses workflows. Specifically, I evaluated whether the current practices for the implementation and retirement of alerts had successfully reduced nurses' alert fatigue, and I interviewed nurses at multiple NYC H+H facilities. Lastly, based on the results of my analysis I provided design recommendations.
+As [PiTech Impact Fellow](https://www.pi.tech.cornell.edu/), I have worked with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) to better integrate medical alerts within nurses workflows. I evaluated whether the current alert management practices had successfully reduced nurses' alert fatigue, and interviewed nurses at NYC H+H facilities to draw design interventions that better support their work.
 
 Before that, I’ve investigated patient needs and support strategies in endometriosis communities using Natural Language Processing on Reddit with [Rosamond Thalken](https://rosamondthalken.com/). We find that members request emotional support beyond biomedical knowledge and that they are attentive to the subject matter of posts when commenting. These communities provide support to patient populations that are missed by traditional endometriosis care.
 
@@ -31,7 +31,7 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 ## News
 
 | ---- | --------- |
-| Nov 2023 | Speaking at [AAGL 2023](https://congress.aagl.org/) about how we can use endometriosis online communities and machine learning to improve care and reduce diagnostic wait times. |
+| Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
 | Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
 | Sep 2023 | Attending Grace Hopper Celebration 2023 virtually. |
 | Jul 2023 | Working with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) on the integration of medical alerts within nurses workflows to reduce fatigue as PiTech Fellow.|
