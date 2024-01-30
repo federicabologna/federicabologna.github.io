@@ -16,7 +16,7 @@ title: ''
 
 <!-- Currently, I am working on two projects. The most recent is dedicated to evaluating the suitability of GPT models for patient question answering. The second most recent aims to measure whether gender discrimination in fiction readership. -->
 
-As [PiTech Impact Fellow](https://www.pi.tech.cornell.edu/), I have worked with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) to better integrate medical alerts within nurses workflows. I evaluated whether the current alert management practices had successfully reduced nurses' alert fatigue, and interviewed nurses at NYC H+H facilities to draw design interventions that better support their work.
+As [PiTech Impact Fellow](https://www.pi.tech.cornell.edu/), I have worked with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) to better integrate medical alerts within nurses workflows. I evaluated whether the current alert management practices had successfully reduced nurses' alert fatigue, and interviewed nurses at NYC H+H facilities to draw design interventions that better support their work. [Here is an extended report](https://www.pi.tech.cornell.edu/spotlight/federica) on the outcomes of this project.
 
 Before that, I’ve investigated patient needs and support strategies in endometriosis communities using Natural Language Processing on Reddit with [Rosamond Thalken](https://rosamondthalken.com/). We find that members request emotional support beyond biomedical knowledge and that they are attentive to the subject matter of posts when commenting. These communities provide support to patient populations that are missed by traditional endometriosis care.
 
