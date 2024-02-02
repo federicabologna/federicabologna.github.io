@@ -3,8 +3,20 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-User Needs and Peer Support in Endometriosis Online Communities  <br/>
+Evaluation of Generative Language Models for Patient Question Answering <br/>
+**Federica Bologna**, [Noémie Elhadad](https://people.dbmi.columbia.edu/noemie/), and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
+(Working paper)<br/>
+
+Reddit Users’ Perceptions of Excision and Ablation Surgery <br/>
+[Kristen Pepin](https://weillcornell.org/kristen-pepin-md-phd), **Federica Bologna**, and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
+(Working paper)<br/>
+
+Endometriosis Online Communities: A Quantitative Analysis <br/>
 **Federica Bologna**, [Rosamond Thalken](https://rosamondthalken.com/){:target="_blank"}, [David Mimno](https://mimno.infosci.cornell.edu/){:target="_blank"}, and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
+(Under review)<br/>
+
+Stylometric Identification of the “Unknown Male Author” in Veronica Franco’s _Terze rime_ <br/>
+Giulia Andreoni, **Federica Bologna**, Marilyn Migiel <br/>
 (Under review)<br/>
 
 [Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}  <br/>
