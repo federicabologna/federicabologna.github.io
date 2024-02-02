@@ -6,7 +6,7 @@ layout: home
 title: ''
 ---
 
-![A picture of me at Venice Beach in LA at sunset](/assets/DSC04289%201.png)
+![A picture of me at Venice Beach, LA at sunset](/assets/DSC04289%201.png)
 
 ## About me
 
@@ -14,13 +14,15 @@ title: ''
 
 <br/>
 
-<!-- Currently, I am working on two projects. The most recent is dedicated to evaluating the suitability of GPT models for patient question answering. The second most recent aims to measure whether gender discrimination in fiction readership. -->
+Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools.
+
+ Last summer, I expanded my previous work on endometriosis online communities by analyzing users' perceptions of excision and ablation surgery under the added guidance of Doctor [Kristen Pepin](https://weillcornell.org/kristen-pepin-md-phd). Specifically, we analyzed user sentiment toward mentions of excision or ablation surgery, as well as support type and topics most associated with each surgery. Kristen and I then presented this work at the 2023 global congress of the [American Association of Gynecologic Laparoscopists (AAGL)](aagl.org).
 
 As [PiTech Impact Fellow](https://www.pi.tech.cornell.edu/), I have worked with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) to better integrate medical alerts within nurses workflows. I evaluated whether the current alert management practices had successfully reduced nurses' alert fatigue, and interviewed nurses at NYC H+H facilities to draw design interventions that better support their work. [Here is an extended report](https://www.pi.tech.cornell.edu/spotlight/federica) on the outcomes of this project.
 
 Before that, I’ve investigated patient needs and support strategies in endometriosis communities using Natural Language Processing on Reddit with [Rosamond Thalken](https://rosamondthalken.com/). We find that members request emotional support beyond biomedical knowledge and that they are attentive to the subject matter of posts when commenting. These communities provide support to patient populations that are missed by traditional endometriosis care.
 
-I have also collaborated with [Marilyn Migiel](https://romancestudies.cornell.edu/marilyn-migiel){:target="_blank"} and [Giulia Andreoni](https://romancestudies.cornell.edu/giulia-andreoni){:target="_blank"}, to identify the “Unknown Male Author” in Veronica Franco’s poetry collection *Terze rime* leveraging stylometry.
+I have also collaborated with [Marilyn Migiel](https://romancestudies.cornell.edu/marilyn-migiel){:target="_blank"} and [Giulia Andreoni](https://romancestudies.cornell.edu/giulia-andreoni){:target="_blank"}, to identify the “Unknown Male Author” in Veronica Franco’s poetry collection *Terze rime* with machine learning.
 
 Prior to joining Cornell, I've worked as a Research Assistant at the University of Bologna, Italy, with [Angelo Di Iorio](https://www.unibo.it/sitoweb/angelo.diiorio/en){:target="_blank"}, [Silvio Peroni](https://essepuntato.it/){:target="_blank"}, and [Francesco Poggi](http://personale.unimore.it/rubrica/dettaglio/fpoggi){:target="_blank"}. There, I examined the availability of open access bibliographic data for Italian publications across fields ([published in QSS](https://doi.org/10.1162/qss_a_00203){:target="_blank"}), and whether bibliometrics extracted from open access dataset can provide insights on the evaluation of academic researchers ([published in Scientometrics](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}).
 
