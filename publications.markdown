@@ -16,7 +16,7 @@ Endometriosis Online Communities: A Quantitative Analysis <br/>
 (Under review)<br/>
 
 Stylometric Identification of the “Unknown Male Author” in Veronica Franco’s _Terze rime_ <br/>
-Giulia Andreoni, **Federica Bologna**, Marilyn Migiel <br/>
+[Giulia Andreoni](https://romancestudies.cornell.edu/giulia-andreoni){:target="_blank"}, **Federica Bologna**, [Marilyn Migiel](https://romancestudies.cornell.edu/marilyn-migiel){:target="_blank"} <br/>
 (Under review)<br/>
 
 [Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}  <br/>
