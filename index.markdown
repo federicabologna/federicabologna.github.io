@@ -6,11 +6,11 @@ layout: home
 title: ''
 ---
 
-![A picture of me at Venice Beach, LA at sunset](/assets/DSC04289%201.png)
+![A picture of myself at Venice Beach, LA at sunset](/assets/DSC04289%201.png)
 
 ## About me
 
-### I'm a PhD student in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I leverage  <u>natural language processing</u> (NLP) and <u>qualitative</u> methods to support <u>patient-centered care</u>, and measure the gender gap in <u>fiction readership</u>. 
+### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I leverage  <u>natural language processing</u> (NLP) and <u>qualitative</u> methods to support <u>patient-centered care</u>, and measure the gender gap in <u>fiction readership</u>. 
 
 <br/>
 
@@ -33,6 +33,7 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 ## News
 
 | ---- | --------- |
+| Fed 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
 | Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
 | Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
 | Sep 2023 | Attending Grace Hopper Celebration 2023 virtually. |
