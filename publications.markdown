@@ -7,7 +7,7 @@ Evaluation of Generative Language Models for Patient Question Answering <br/>
 **Federica Bologna**, [Noémie Elhadad](https://people.dbmi.columbia.edu/noemie/), and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
 (Working paper)<br/>
 
-Reddit Users’ Perceptions of Excision and Ablation Surgery <br/>
+Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online <br/>
 [Kristen Pepin](https://weillcornell.org/kristen-pepin-md-phd), **Federica Bologna**, and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
 (Working paper)<br/>
 
