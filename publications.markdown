@@ -11,7 +11,7 @@ Endometriosis Online Communities: How Machine Learning Can Help Physicians Under
 [Kristen Pepin](https://weillcornell.org/kristen-pepin-md-phd), **Federica Bologna**, and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
 (Working paper)<br/>
 
-Endometriosis Online Communities: A Quantitative Analysis <br/>
+[Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.1101/2024.02.27.24303445) <br/>
 **Federica Bologna**, [Rosamond Thalken](https://rosamondthalken.com/){:target="_blank"}, [David Mimno](https://mimno.infosci.cornell.edu/){:target="_blank"}, and [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}  <br/>
 (Under review)<br/>
 
