@@ -33,7 +33,7 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 ## News
 
 | ---- | --------- |
-| Fed 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
+| Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
 | Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
 | Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
 | Sep 2023 | Attending Grace Hopper Celebration 2023 virtually. |
@@ -41,7 +41,7 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 | Jun 2023 | Awarded the **Outstanding Teaching Award** for TAing for [INFO 3370: Studying Social Inequality with Data Science](https://info3370.github.io/) taught by [Ian Lundberg](https://www.ianlundberg.org/). |
 | May 2023 | Awarded the [Siegel Family Endowment PiTech PhD Impact Fellowship](https://www.pi.tech.cornell.edu/). |
 | May 2023 | Selected to attend Grace Hopper Celebration 2023 virtually. |
-| Apr 2023 | Delivered a lecture on [Nonparametric Estimators of Causal Effects](https://info3370.github.io/lessonplans/8c/). |
+| Apr 2023 | Delivered a lecture on [Nonparametric Estimators of Causal Effects](https://info3370.github.io/sp23/lessonplans/8c/). |
 
 
 <sub>Photo: [Davide Tagazzini](https://www.instagram.com/tagazd/)</sub>
