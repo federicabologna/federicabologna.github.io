@@ -6,7 +6,7 @@ layout: home
 title: ''
 ---
 
-![A picture of myself at Venice Beach, LA at sunset](/assets/DSC04289%201.png)
+![A picture of myself at Venice Beach, LA at sunset :)](/assets/DSC04289%201.png)
 
 ## About me
 
