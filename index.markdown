@@ -10,13 +10,15 @@ title: ''
 
 ## About me
 
-### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. I leverage  <u>natural language processing</u> (NLP) and <u>qualitative</u> methods to support <u>patient-centered care</u>, and measure the gender gap in <u>fiction readership</u>. 
+### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research focuses on <u>rethinking natural language processing</u> to promote <u>equity and patient-centered</u> care in healthcare settings using a mix of quantitative and qualitative methods. I am specifically interested in supporting <u>patients with chronic conditions</u>.
 
 <br/>
 
 <!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools. -->
 
 I am currently working with [Daye Kang](https://www.dayekang.info/) to trace symptoms and treatment strategies in PCOS online health communities. We will then use these findings to provide recommendations for the design of self-tracking apps for PCOS patients.
+
+Over the past 
 
 In the summer of 2023, I expanded my previous work on endometriosis online communities by analyzing users' perceptions of excision and ablation surgery under the added guidance of Doctor [Kristen Pepin](https://weillcornell.org/kristen-pepin-md-phd). Specifically, we analyzed user sentiment toward mentions of excision or ablation surgery, as well as support type and topics most associated with each surgery. We presented this work at the 2023 global congress of the [American Association of Gynecologic Laparoscopists (AAGL)](aagl.org) and the findings have been published in the [Journal of Minimally Invasive Gynecology](https://doi.org/10.1016/j.jmig.2024.08.001).
 
