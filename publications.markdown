@@ -3,13 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Evaluation of Generative Language Models for Patient Question Answering <br/>
+<!-- Evaluation of Generative Language Models for Patient Question Answering <br/>
 **Federica Bologna**, Noémie Elhadad, Matthew Wilkens  <br/>
-(Working paper)<br/>
+(Working paper)<br/> -->
 
-Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online <br/>
-Kristen Pepin, **Federica Bologna**, Matthew Wilkens <br/>
-(Working paper)<br/>
+[Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online](https://doi.org/10.1016/j.jmig.2024.08.001) <br/>
+Kristen Pepin, **Federica Bologna**, Rosamond Thalken, Matthew Wilkens <br/>
+Journal of Minimally Invasive Gynecology (2024)<br/>
 
 [Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.1101/2024.02.27.24303445) <br/>
 **Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
