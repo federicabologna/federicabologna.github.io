@@ -6,13 +6,15 @@ layout: home
 title: ''
 ---
 
-![A picture of myself at Venice Beach, LA at sunset :)](/assets/DSC04289%201.png)
+![A fancy professional portrait of myself](/assets/2022_compressed.jpg){: style="float: left"}
 
-## About me
+### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
 
-### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research focuses on <u>rethinking natural language processing</u> to promote <u>equity and patient-centered</u> care in healthcare settings using a mix of quantitative and qualitative methods. I am specifically interested in supporting <u>patients with chronic conditions</u>.
+### My research focuses on <u>rethinking natural language processing</u> to promote <u>equity and patient-centered</u> care in healthcare settings using a mix of quantitative and qualitative methods. I am specifically interested in supporting <u>patients with chronic conditions</u>.
 
 <br/>
+
+<!-- Add research directions and move longer explanation about my research somewhere else >
 
 <!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools. -->
 
@@ -37,6 +39,7 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 ## News
 
 | ---- | --------- |
+
 | Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
 | Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
 | Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
