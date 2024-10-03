@@ -7,7 +7,7 @@ title: ''
 ---
 
 
-<img style="float: left;" src="whatever.jpg" alt="a very fancy photo of me in a suit smiling">
+<img style="float: left;" src="assets/2022_compressed.jpg" width="200" height="100" alt="a very fancy photo of me in a suit smiling">
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
 
