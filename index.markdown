@@ -6,7 +6,7 @@ layout: home
 title: ''
 ---
 
-![A fancy professional portrait of myself](/assets/2022_compressed.jpg){: style="float: left"}
+![A fancy professional portrait of myself](/assets/2022_compressed.jpg)
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
 
