@@ -55,8 +55,10 @@ main {
  * Images
  */
 img {
-  max-width: 50%;
-  vertical-align: right;
+  max-width: 25%;
+  vertical-align: center;
+  float: left;
+  margin-right: $spacing-unit;
 }
 
 
