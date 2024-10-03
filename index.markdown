@@ -11,12 +11,14 @@ title: ''
 
 ![A fancy portrait of me wearing a suit](assets/2022_cropped.jpg)
 
+<br/>
+
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
 
 ### My research focuses on <u>rethinking natural language processing</u> to promote <u>equity and patient-centered</u> care in healthcare settings using a mix of quantitative and qualitative methods. I am specifically interested in supporting <u>patients with chronic conditions</u>.
 
 <br/>
-
+<br/>
 <!-- Add research directions and move longer explanation about my research somewhere else >
 
 <!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools. -->
