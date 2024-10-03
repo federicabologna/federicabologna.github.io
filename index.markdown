@@ -6,7 +6,6 @@ layout: home
 title: ''
 ---
 
-| ---------------------------------------------------- | ---------------------------------------------------- |
 | I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research focuses on <u>rethinking natural language processing</u> to promote <u>equity and patient-centered</u> care in healthcare settings using a mix of quantitative and qualitative methods. I am specifically interested in supporting <u>patients with chronic conditions</u>. | ![A fancy professional portrait of myself](/assets/2022_compressed.jpg)
 
 <br/>
