@@ -14,7 +14,7 @@ title: ''
 
 My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>. I strive to ground my research through the theoretical frameworks of ethics of care and studying up. In my research, I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. Here are a few research directions I worked on and am currently excited about:
 
-</br>
+<br/>
 
 **<u>Evaluation of clinical QA models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models in anticipation of their integration in electronic health record systems.
 
@@ -24,7 +24,7 @@ My research lies at the intersection of <u>natural language processing</u>, <u>h
 
 For a detailed description of my research peek below 👀
 
-</br>
+<br/>
 
 | ---- | --------- |
 | Sep 2024 | Started my role as president of the Pelvic Pain Association at Cornell!
