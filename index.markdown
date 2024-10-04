@@ -11,15 +11,28 @@ title: ''
 
 ![A fancy portrait of me wearing a suit](assets/2022_cropped.jpg)
 
-<br/>
+I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
 
-### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
+My research lies at the intersection of <u>natural language processing</u>, <u>gender</u>, and <u>healthcare</u>.
 
-### My research focuses on <u>rethinking natural language processing</u> to promote <u>equity and patient-centered</u> care in healthcare settings using a mix of quantitative and qualitative methods. I am specifically interested in supporting <u>patients with chronic conditions</u>.
+Here are a few research directions I worked on and am currently excited about:
+* **Evaluation of clinical QA models**: after studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models in anticipation of their integration in electronic health record systems.
+* **Large-scale analysis of patient needs in online health communities**: I am tracing symptoms and treatment strategies in PCOS online communities; I have [analyzed user needs and support strategies](https://doi.org/10.1101/2024.02.27.24303445) in endometriosis online communities, as well [perceptions of ablation and excision surgery](https://doi.org/10.1016/j.jmig.2024.08.001).
+* **Interaction between gender and literature**: I have conducted a randomized experiment with 3,000 participants to measure the causel effect of character gender on reader's preferences. I have used stylometry to explore style and gender play in *Terze Rime* by Veronica Franco.
 
-<br/>
-<br/>
-<!-- Add research directions and move longer explanation about my research somewhere else >
+I strive to ground my research through the theoretical frameworks of ethics of care and studying up. In my research, I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. For a more detailed narration of my research project please see below.
+
+## News
+
+| ---- | --------- |
+| Sep 2024 | Started my role as president of the Pelvic Pain Association at Cornell!
+| Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
+| Aug 2024 | [Paper Accepted for Publication in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
+| Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
+| Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
+| Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
+
+## Research Timeline
 
 <!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools. -->
 
@@ -41,18 +54,3 @@ I received a Master's degree in Modern, Post-colonial and Comparative Literature
 
 <br/>
 
-## News
-
-| ---- | --------- |
-| Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
-| Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
-| Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
-| Sep 2023 | Attending Grace Hopper Celebration 2023 virtually. |
-| Jul 2023 | Working with [NYC Health + Hospitals](https://www.nychealthandhospitals.org/) on the integration of medical alerts within nurses workflows to reduce fatigue as PiTech Fellow.|
-| Jun 2023 | Awarded the **Outstanding Teaching Award** for TAing for [INFO 3370: Studying Social Inequality with Data Science](https://info3370.github.io/) taught by [Ian Lundberg](https://www.ianlundberg.org/). |
-| May 2023 | Awarded the [Siegel Family Endowment PiTech PhD Impact Fellowship](https://www.pi.tech.cornell.edu/). |
-| May 2023 | Selected to attend Grace Hopper Celebration 2023 virtually. |
-| Apr 2023 | Delivered a lecture on [Nonparametric Estimators of Causal Effects](https://info3370.github.io/sp23/lessonplans/8c/). |
-
-
-<sub>Photo: [Davide Tagazzini](https://www.instagram.com/tagazd/)</sub>
