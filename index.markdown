@@ -12,17 +12,17 @@ title: ''
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
 
-My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>. I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. Here are a few research directions I worked on and am currently excited about:
-
-<br/>
-
 **<u>Evaluation of clinical QA models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models in anticipation of their integration in electronic health record systems.
 
 **<u>Large-scale analysis of patient needs in online health communities</u>**: I am tracing symptoms and treatment strategies in PCOS online communities; I have [analyzed user needs and support strategies](https://doi.org/10.1101/2024.02.27.24303445) in endometriosis online communities, as well [perceptions of ablation and excision surgery](https://doi.org/10.1016/j.jmig.2024.08.001).
 
 **<u>Interaction between gender and literature</u>**: I have conducted a randomized experiment with 3,000 participants to measure the causal effect of character gender on reader's preferences. I have used stylometry to explore style and gender play in *Terze Rime* by Veronica Franco.
 
-For a detailed description of my research peek below 👀
+For a more detailed description of my research projects peek below 👀
+
+<br/>
+
+My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>. I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. Here are a few research directions I worked on and am currently excited about:
 
 <br/>
 
