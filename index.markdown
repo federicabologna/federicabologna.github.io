@@ -8,7 +8,7 @@ title: ''
 
 ![A portrait of me in Venice Beach, LA at sunset](assets/DSC04289.png)
 
-### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
+### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>.
 
 Here are a few research directions I worked on and am currently excited about:
 
@@ -18,11 +18,11 @@ Here are a few research directions I worked on and am currently excited about:
 
 **<u>Interaction between gender and literature</u>**: I have conducted a randomized experiment with 3,000 participants to measure the causal effect of character gender on reader's preferences. I have used stylometry to explore style and gender play in *Terze Rime* by Veronica Franco.
 
-My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>. I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. 
+I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews.
 
 For a more detailed description of my research projects peek below 👀
 
-<!-- | ---- | --------- | -->
+| ---- | --------- |
 | Sep 2024 | Started my role as president of the Pelvic Pain Association at Cornell!
 | Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
 | Aug 2024 | [Paper Accepted for Publication in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
