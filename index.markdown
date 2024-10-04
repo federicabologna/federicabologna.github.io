@@ -6,11 +6,11 @@ layout: home
 title: ''
 ---
 
-<!-- <img style="float: left;" src="assets/2022_compressed.jpg" width="200" alt="a very fancy photo of me in a suit smiling"> -->
-
-![A fancy portrait of me wearing a suit](assets/2022_cropped.jpg)
+![A portrait of me in Venice Beach, LA at sunset](assets/DSC04289.png)
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}.
+
+Here are a few research directions I worked on and am currently excited about:
 
 **<u>Evaluation of clinical QA models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models in anticipation of their integration in electronic health record systems.
 
@@ -18,15 +18,11 @@ title: ''
 
 **<u>Interaction between gender and literature</u>**: I have conducted a randomized experiment with 3,000 participants to measure the causal effect of character gender on reader's preferences. I have used stylometry to explore style and gender play in *Terze Rime* by Veronica Franco.
 
+My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>. I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. 
+
 For a more detailed description of my research projects peek below 👀
 
-<br/>
-
-My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>. I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews. Here are a few research directions I worked on and am currently excited about:
-
-<br/>
-
-| ---- | --------- |
+<!-- | ---- | --------- | -->
 | Sep 2024 | Started my role as president of the Pelvic Pain Association at Cornell!
 | Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
 | Aug 2024 | [Paper Accepted for Publication in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
@@ -55,4 +51,3 @@ Prior to joining Cornell, I've worked as a Research Assistant at the University 
 I received a Master's degree in Modern, Post-colonial and Comparative Literature at the University of Bologna, Italy, with a thesis on computational approaches to model urban space in science fiction literature. This work resulted in [a publication on _The Journal of Cultural Analytics_](https://doi.org/10.22148/001c.18120){:target="_blank"}.
 
 <br/>
-
