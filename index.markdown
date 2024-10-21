@@ -22,6 +22,8 @@ I strive to ground my work through the theoretical frameworks of ethics of care 
 
 For a more detailed description of my research projects peek below 👀
 
+## News
+
 | ---- | --------- |
 | Sep 2024 | Started my role as president of the Pelvic Pain Association at Cornell!
 | Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
