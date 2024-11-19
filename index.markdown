@@ -25,7 +25,7 @@ For a more detailed description of my research projects peek below 👀
 ## News
 
 | ---- | --------- |
-| Sep 2024 | Started my role as president of the Pelvic Pain Association at Cornell!
+| Sep 2024 | Started my role as Treasurer of the Pelvic Pain Association at Cornell!
 | Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
 | Aug 2024 | [Paper Accepted for Publication in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
 | Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
