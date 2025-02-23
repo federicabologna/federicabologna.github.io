@@ -25,6 +25,7 @@ For a more detailed description of my research projects peek below 👀
 ## News
 
 | ---- | --------- |
+| Feb 2025 | [Paper Accepted for Publication in Journal of Medical Internet Research!](https://doi.org/10.1101/2024.02.27.24303445)
 | Sep 2024 | Started my role as Treasurer of the Pelvic Pain Association at Cornell!
 | Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
 | Aug 2024 | [Paper Accepted for Publication in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
@@ -36,7 +37,7 @@ For a more detailed description of my research projects peek below 👀
 
 <!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools. -->
 
-I am currently working with [Daye Kang](https://www.dayekang.info/) to trace symptoms and treatment strategies in PCOS online health communities. We will then use these findings to provide recommendations for the design of self-tracking apps for PCOS patients.
+[Daye Kang](https://www.dayekang.info/) are composing an auto-ehtnography on how to conduct collaborations at the intersection of design and natural language processing; given the values, expectations, and limitations of these disciplines, when can misunderstandings and difficulties arise? how can experts from these fields make the most of these collaborations?
 
 Over the past year, I have designed a large-scale randomized survey experiment to measure the causal effect of character gender on reader preferences. Ian Lundberg, Matthew Wilkens, and I found that character gender has a minimal effect on readers' preferences. These findings contradict a long standing belief in the publishing industry that men and boys are only interested in reading about people of the same gender identity. We are currently working on the paper detailing this project.
 

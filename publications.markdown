@@ -17,7 +17,7 @@ Journal of Minimally Invasive Gynecology (2024)<br/>
 
 [Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.1101/2024.02.27.24303445) <br/>
 **Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
-(Under review)<br/>
+Forthcoming in Journal of Medical Internet Research (2025)<br/>
 
 Stylometric Identification of the “Unknown Male Author” in Veronica Franco’s _Terze rime_ <br/>
 Giulia Andreoni, **Federica Bologna**, Marilyn Migiel  <br/>
