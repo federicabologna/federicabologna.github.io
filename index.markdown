@@ -12,7 +12,7 @@ title: ''
 
 Here are a few research directions I worked on and am currently excited about:
 
-1. **<u>Evaluation of clinical QA models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models in anticipation of their integration in electronic health record systems.
+1. **<u>Evaluation of clinical models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models in anticipation of their integration in electronic health record systems.
 
 2. **<u>Large-scale analysis of patient needs in online health communities</u>**: I am tracing symptoms and treatment strategies in PCOS online communities; I have [analyzed user needs and support strategies](https://doi.org/10.1101/2024.02.27.24303445) in endometriosis online communities, as well [perceptions of ablation and excision surgery](https://doi.org/10.1016/j.jmig.2024.08.001).
 
@@ -34,10 +34,9 @@ For a more detailed description of my research projects peek below 👀
 | Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
 
 ## Research Timeline
+<!-- [Daye Kang](https://www.dayekang.info/) are composing an auto-ehtnography on how to conduct collaborations at the intersection of design and natural language processing; given the values, expectations, and limitations of these disciplines, when can misunderstandings and difficulties arise? how can experts from these fields make the most of these collaborations? -->
 
-<!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. Based on these findings, I am currently formulating preliminary recommendations for patients on how to use minimal prompts to receive more accurate responses from GPT-based tools. -->
-
-[Daye Kang](https://www.dayekang.info/) are composing an auto-ehtnography on how to conduct collaborations at the intersection of design and natural language processing; given the values, expectations, and limitations of these disciplines, when can misunderstandings and difficulties arise? how can experts from these fields make the most of these collaborations?
+Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. We find that prompting GPT-4 to answer medical questions in the role of a patient advocate increases the empathy and actionability but not the information quality of the replies.
 
 Over the past year, I have designed a large-scale randomized survey experiment to measure the causal effect of character gender on reader preferences. Ian Lundberg, Matthew Wilkens, and I found that character gender has a minimal effect on readers' preferences. These findings contradict a long standing belief in the publishing industry that men and boys are only interested in reading about people of the same gender identity. We are currently working on the paper detailing this project.
 

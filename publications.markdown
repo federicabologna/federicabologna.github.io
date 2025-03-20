@@ -25,7 +25,7 @@ Journal of Minimally Invasive Gynecology (2024)<br/>
 
 [Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}  <br/>
 **Federica Bologna**, Angelo Di Iorio, Silvio Peroni, and Francesco Poggi  <br/>
-Scientometrics (2023)<br/>
+Scientometrics (2022)<br/>
 
 [Open bibliographic data and the Italian National Scientific Qualification: measuring coverage of academic fields](https://doi.org/10.1162/qss_a_00203){:target="_blank"}  <br/>
 **Federica Bologna**, Angelo Di Iorio, Silvio Peroni, and Francesco Poggi  <br/>
