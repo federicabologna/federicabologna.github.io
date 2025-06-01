@@ -27,12 +27,9 @@ For a more detailed description of my research projects peek below 👀
 | ---- | --------- |
 | Jun 2025 | Starting my Research Intern position at the Allen Institute for AI! 
 | Feb 2025 | [Paper published in the Journal of Medical Internet Research!](https://doi.org/10.1101/2024.02.27.24303445)
-| Sep 2024 | Started my role as Treasurer of the Pelvic Pain Association at Cornell!
-| Sep 2024 | Having a great time leading discussion sections for [INFO 3350: Text mining for history and literature](https://github.com/wilkens-teaching/info3350-f24)
 | Aug 2024 | [Paper published in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
 | Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
 | Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
-| Oct 2023 | Awarded $$$ in Microsoft Azure Credits through Cornell's [Center for Data Science for Enterprise & Society](https://datasciencecenter.cornell.edu/) |
 
 ## Research Timeline
 <!-- [Daye Kang](https://www.dayekang.info/) are composing an auto-ehtnography on how to conduct collaborations at the intersection of design and natural language processing; given the values, expectations, and limitations of these disciplines, when can misunderstandings and difficulties arise? how can experts from these fields make the most of these collaborations? -->
