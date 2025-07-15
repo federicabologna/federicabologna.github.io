@@ -12,7 +12,7 @@ title: ''
 
 Here are a few research directions I worked on:
 
-1. **<u>Evaluation of clinical models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models.
+1. **<u>Evaluation of clinical models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models. Recently, I have tested whether sentence-level annotations can achieve high inter-annotator agreement and reduced costs when evaluating LLM-generated answers to clinical questions, compared to coarse-level annotations.
 
 2. **<u>Large-scale analysis of patient needs in online health communities</u>**: I have [analyzed user needs and support strategies](https://doi.org/10.1101/2024.02.27.24303445) in endometriosis online communities, as well [perceptions of ablation and excision surgery](https://doi.org/10.1016/j.jmig.2024.08.001).
 
