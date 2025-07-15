@@ -9,15 +9,19 @@ permalink: /publications/
 
 Causal Effect of Character Gender on Readers' Preferences <br/>
 **Federica Bologna**, Ian Lundberg, Matthew Wilkens <br/>
-(Working paper)<br/>
+(Under review)<br/>
 
 Stylometric Identification of the “Unknown Male Author” in Veronica Franco’s _Terze rime_ <br/>
 Giulia Andreoni, **Federica Bologna**, Marilyn Migiel  <br/>
 (Under review)<br/>
 
-[Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.1101/2024.02.27.24303445) <br/>
+Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue<br/>
 **Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
-Forthcoming in Journal of Medical Internet Research (2025)<br/>
+Poster at the American Medical Informatics Association's Annual Symposium (2025)<br/>
+
+[Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.2196/57987) <br/>
+**Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
+Journal of Medical Internet Research (2025)<br/>
 
 [Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online](https://doi.org/10.1016/j.jmig.2024.08.001) <br/>
 Kristen Pepin, **Federica Bologna**, Rosamond Thalken, Matthew Wilkens <br/>

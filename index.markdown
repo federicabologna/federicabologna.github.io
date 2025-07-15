@@ -10,7 +10,7 @@ title: ''
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>.
 
-Here are a few research directions I worked on and am currently excited about:
+Here are a few research directions I worked on:
 
 1. **<u>Evaluation of clinical models</u>**: After studying the integration of medical alerts within nurses workflows at [NYC Health + Hospitals](https://www.nychealthandhospitals.org/), I have been increasingly interested in evaluating clinical QA models.
 
@@ -25,18 +25,20 @@ For a more detailed description of my research projects peek below 👀
 ## News
 
 | ---- | --------- |
+| Jun 2025 | My poster "Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue" got accepted to AMIA 2025!
 | Jun 2025 | Starting my Research Intern position at the Allen Institute for AI! 
 | Feb 2025 | [Paper published in the Journal of Medical Internet Research!](https://doi.org/10.1101/2024.02.27.24303445)
 | Aug 2024 | [Paper published in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
 | Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
-| Nov 2023 | Spoke on the main stage at [AAGL 2023](https://congress.aagl.org/) about how endometriosis online communities and NLP can tell us how to improve care and reduce diagnostic wait times. |
 
 ## Research Timeline
-<!-- [Daye Kang](https://www.dayekang.info/) are composing an auto-ehtnography on how to conduct collaborations at the intersection of design and natural language processing; given the values, expectations, and limitations of these disciplines, when can misunderstandings and difficulties arise? how can experts from these fields make the most of these collaborations? -->
+At [the Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org/), I’m developing a system that assists users in refining their scientific questions and exploring related academic fields by recommending follow-up research questions under the guidance of [Jay DeYoung](https://scholar.google.com/citations?user=f8aP6RMAAAAJ&hl=en).
 
-Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. We find that prompting GPT-4 to answer medical questions in the role of a patient advocate increases the empathy and actionability but not the information quality of the replies.
+[Lucy Lu Wang](https://www.llwang.net/), [Yue Guo](https://yueguo-50.github.io/), [Matthew Wilkens](https://mattwilkens.com/) and I have been testing whether sentence-level annotations can achieve high inter-annotator agreement and reduced costs when evaluating the correctness, relevance, and safety of LLM-generated answers to clinical questions, compared to coarse-level annotations.
 
-Over the past year, I have designed a large-scale randomized survey experiment to measure the causal effect of character gender on reader preferences. Ian Lundberg, Matthew Wilkens, and I found that character gender has a minimal effect on readers' preferences. These findings contradict a long standing belief in the publishing industry that men and boys are only interested in reading about people of the same gender identity. We are currently working on the paper detailing this project.
+<!-- Recently, I have evaluated the information quality, empathy and actionability of GPT4 responses to endometriosis patient questions. Specifically, I compared GPT4 performance at answering endometriosis questions vs general medical questions, as well as across prompting strategies. We find that prompting GPT-4 to answer medical questions in the role of a patient advocate increases the empathy and actionability but not the information quality of the replies. -->
+
+Over the past year, I have designed a large-scale randomized survey experiment to measure the causal effect of character gender on reader preferences. [Ian Lundberg](https://www.ianlundberg.org/), [Matthew Wilkens](https://mattwilkens.com/), and I found that character gender has a minimal effect on readers' preferences. These findings contradict a long standing belief in the publishing industry that men and boys are only interested in reading about people of the same gender identity. We are currently working on the paper detailing this project.
 
 In the summer of 2023, under the guidance of Doctor [Kristen Pepin](https://weillcornell.org/kristen-pepin-md-phd), I expanded my previous work on endometriosis online communities by analyzing user sentiment toward mentions of excision or ablation surgery, as well as support type and topics most associated with each surgery. We presented this work at the 2023 global congress of the [American Association of Gynecologic Laparoscopists (AAGL)](aagl.org) and the findings have been published in the [Journal of Minimally Invasive Gynecology](https://doi.org/10.1016/j.jmig.2024.08.001).
 
