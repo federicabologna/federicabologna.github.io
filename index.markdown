@@ -6,7 +6,7 @@ layout: home
 title: ''
 ---
 
-![A portrait of me at the Cornell Botanic Gardens](assets/IMG_1336.JPG)
+![A portrait of me at the Cornell Botanic Gardens](assets/IMG_1336_cropped.JPG)
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>.
 
