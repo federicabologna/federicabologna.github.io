@@ -6,7 +6,7 @@ layout: home
 title: ''
 ---
 
-![A portrait of me in Venice Beach, LA at sunset](assets/DSC04289.png)
+![A portrait of me at the Cornell Botanic Gardens](assets/IMG_1336.JPG)
 
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research lies at the intersection of <u>natural language processing</u>, <u>healthcare</u>, and <u>gender</u>.
 
@@ -25,11 +25,12 @@ For a more detailed description of my research projects peek below 👀
 ## News
 
 | ---- | --------- |
+| Aug 2025 | My paper Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_ was accepted for publication in _Early Modern Women_
+| Aug 2025 | My internship at the Allen Institute for AI got exstended until December 2025! 
 | Jun 2025 | My poster "Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue" got accepted to AMIA 2025!
 | Jun 2025 | Starting my Research Intern position at the Allen Institute for AI! 
 | Feb 2025 | [Paper published in the Journal of Medical Internet Research!](https://doi.org/10.1101/2024.02.27.24303445)
 | Aug 2024 | [Paper published in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
-| Feb 2024 | I passed my Candidacy exam! [Here](https://docs.google.com/presentation/d/1d8zZYhmgq5dP2t8_t4Q6VfFyfcWX_lwrm8XsXvXeulo/edit?usp=sharing) is a curated selection of my slide deck.
 
 ## Research Timeline
 At [the Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org/), I’m developing a system that assists users in refining their scientific questions and exploring related academic fields by recommending follow-up research questions under the guidance of [Jay DeYoung](https://scholar.google.com/citations?user=f8aP6RMAAAAJ&hl=en).
