@@ -10,7 +10,7 @@ title: ''
 
 ## Looking for Research Scientist roles in LLMs and Generative AI starting 2026!
 
-### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research focuses on developing and evaluating <u>computer science tools for clinical and biomedical purposes</u>, with a specific focus on <u>natural language processing</u>.
+### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research focuses on developing and evaluating <u>computer science tools for clinical and biomedical purposes</u>, with a specific focus on <u>natural language processing and large language models</u>.
 
 Here are a few research directions I have worked on and I continue being passionate about:
 
