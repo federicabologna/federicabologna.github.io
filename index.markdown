@@ -27,11 +27,10 @@ I strive to ground my work through the theoretical frameworks of ethics of care 
 | ---- | --------- |
 | Sep 2025 | My paper ["Causal Effect of Character Gender on Readers' Preferences"](https://doi.org/10.31235/osf.io/ef9mj_v1) is accepted to [CHR 2025](https://2025.computational-humanities-research.org/)!
 | Aug 2025 | My paper "Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_" is accepted for publication in [_Early Modern Women_](https://www.journals.uchicago.edu/toc/emw/current)!
-| Aug 2025 | My internship at the Allen Institute for AI is extended until December 2025
+| Aug 2025 | My Research Intern position at the Allen Institute for AI is extended until December 2025
 | Jun 2025 | My poster "Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue" got accepted to [AMIA 2025](https://amia.org/education-events/amia-2025-annual-symposium)
-| Jun 2025 | Starting my Research Intern position at the Allen Institute for AI 
-| Feb 2025 | [Paper published in the Journal of Medical Internet Research!](https://doi.org/10.1101/2024.02.27.24303445)
-| Aug 2024 | [Paper published in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
+| Feb 2025 | [Paper published in the _Journal of Medical Internet Research_!](https://doi.org/10.1101/2024.02.27.24303445)
+| Aug 2024 | [Paper published in _The Journal of Minimally Invasive Gynecology_!](https://doi.org/10.1016/j.jmig.2024.08.001)
 
 <!-- ## Summary of my research
 At [the Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org/), I’m developing a system that assists users of [ScholarQA](https://scholarqa.allen.ai/) with refining their scientific questions by recommending reformulated research questions under the guidance of [Jay DeYoung](https://scholar.google.com/citations?user=f8aP6RMAAAAJ&hl=en).
