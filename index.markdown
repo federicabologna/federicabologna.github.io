@@ -8,8 +8,6 @@ title: ''
 
 ![A portrait of me at the Cornell Botanic Gardens](assets/IMG_1336_cropped.JPG)
 
-## Open for Research Scientist roles in LLMs and GenAI starting in 2026!
-
 ### I'm a PhD candidate in Information Science at [Cornell University](http://infosci.cornell.edu/){:target="_blank"}, where I'm advised by [Matthew Wilkens](https://mattwilkens.com/){:target="_blank"}. My research focuses on developing and evaluating <u>computer science tools for clinical and biomedical purposes</u>, with a specific focus on <u>natural language processing and large language models</u>.
 
 Here are a few research directions I have worked on and I continue being passionate about:
@@ -22,12 +20,12 @@ Here are a few research directions I have worked on and I continue being passion
 
 I strive to ground my work through the theoretical frameworks of ethics of care and studying up. I enjoy using a combination of quantitative - NLP, causal inference, statistical analysis - and qualitative methods - surveys, annotations, interviews.
 
-For a more detailed description of my research projects peek below 👀
+<!-- For a more detailed description of my research projects peek below 👀 -->
 
 ## News
 
 | ---- | --------- |
-| Sep 2025 | My paper "Causal Effect of Character Gender on Readers' Preferences" is accepted to [CHR 2025](https://2025.computational-humanities-research.org/)!
+| Sep 2025 | My paper ["Causal Effect of Character Gender on Readers' Preferences"](https://doi.org/10.31235/osf.io/ef9mj_v1) is accepted to [CHR 2025](https://2025.computational-humanities-research.org/)!
 | Aug 2025 | My paper "Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_" is accepted for publication in [_Early Modern Women_](https://www.journals.uchicago.edu/toc/emw/current)!
 | Aug 2025 | My internship at the Allen Institute for AI is extended until December 2025
 | Jun 2025 | My poster "Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue" got accepted to [AMIA 2025](https://amia.org/education-events/amia-2025-annual-symposium)
@@ -35,7 +33,7 @@ For a more detailed description of my research projects peek below 👀
 | Feb 2025 | [Paper published in the Journal of Medical Internet Research!](https://doi.org/10.1101/2024.02.27.24303445)
 | Aug 2024 | [Paper published in The Journal of Minimally Invasive Gynecology!](https://doi.org/10.1016/j.jmig.2024.08.001)
 
-## Summary of my research
+<!-- ## Summary of my research
 At [the Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org/), I’m developing a system that assists users of [ScholarQA](https://scholarqa.allen.ai/) with refining their scientific questions by recommending reformulated research questions under the guidance of [Jay DeYoung](https://scholar.google.com/citations?user=f8aP6RMAAAAJ&hl=en).
 
 [Lucy Lu Wang](https://www.llwang.net/), [Yue Guo](https://yueguo-50.github.io/), [Matthew Wilkens](https://mattwilkens.com/) and I have been testing whether sentence-level annotations can achieve high inter-annotator agreement and reduce costs when evaluating the correctness, relevance, and safety of LLM-generated answers to clinical questions, compared to answer-level annotations.
@@ -50,6 +48,6 @@ I have also collaborated with [Marilyn Migiel](https://romancestudies.cornell.ed
 
 Prior to joining Cornell, I've worked as a Research Assistant at the University of Bologna, Italy, with [Angelo Di Iorio](https://www.unibo.it/sitoweb/angelo.diiorio/en){:target="_blank"}, [Silvio Peroni](https://essepuntato.it/){:target="_blank"}, and [Francesco Poggi](http://personale.unimore.it/rubrica/dettaglio/fpoggi){:target="_blank"}. There, I examined the availability of open access bibliographic data for Italian publications across fields ([published in QSS](https://doi.org/10.1162/qss_a_00203){:target="_blank"}), and whether bibliometrics extracted from open access dataset can provide insights on the evaluation of academic researchers ([published in Scientometrics](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}).
 
-I received a Master's degree in Modern, Post-colonial and Comparative Literature at the University of Bologna, Italy, with a thesis on computational approaches to model urban space in science fiction literature. This work resulted in [a publication on _The Journal of Cultural Analytics_](https://doi.org/10.22148/001c.18120){:target="_blank"}.
+I received a Master's degree in Modern, Post-colonial and Comparative Literature at the University of Bologna, Italy, with a thesis on computational approaches to model urban space in science fiction literature. This work resulted in [a publication on _The Journal of Cultural Analytics_](https://doi.org/10.22148/001c.18120){:target="_blank"}. -->
 
 <br/>
