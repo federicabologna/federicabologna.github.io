@@ -28,7 +28,7 @@ github_username:  federicabologna
 linkedin_username: federica-bologna
 
 header_pages:
-  - CV.markdown
+  - resume.markdown
   - publications.markdown
   - code.markdown
   - contact.markdown

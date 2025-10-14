@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+redirect_to: mailto:fb265@cornell.edu
 ---
 
 <a href="mailto:{{ site.email }}">Email</a> is the best way to contact me 🤠
