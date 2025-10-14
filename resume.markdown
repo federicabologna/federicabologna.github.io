@@ -6,7 +6,9 @@ permalink: /resume/
 
 # Federica Bologna
 
-### EDUCATION
+---
+
+#### EDUCATION
 
 **Cornell University** — *Ph.D. in Information Science*  
 *Ithaca, NY*  
@@ -20,7 +22,7 @@ permalink: /resume/
 
 ---
 
-### RESEARCH & PROFESSIONAL EXPERIENCE
+#### RESEARCH & PROFESSIONAL EXPERIENCE
 
 **Allen Institute for Artificial Intelligence** — *PhD Research Intern, Semantic Scholar*  
 *Seattle, WA | June 2025 – Present*  
@@ -49,13 +51,13 @@ permalink: /resume/
 
 ---
 
-### PUBLICATIONS  
+#### PUBLICATIONS  
 
 Check out to the [publications tab](https://federicabologna.github.io/publications/) 🤠
 
 ---
 
-### SKILLS & INTERESTS
+#### SKILLS & INTERESTS
 
 **Programming Languages:** Python, R, Bash, SQL  
 **Methods:** NLP, Data Science, Statistical Testing, Causal Inference, Interviews, Surveys  
@@ -63,7 +65,7 @@ Check out to the [publications tab](https://federicabologna.github.io/publicatio
 
 ---
 
-### POSTERS & PRESENTATIONS
+#### POSTERS & PRESENTATIONS
 
 **What is Happening in Endometriosis Online Communities?**  
 Kristen Pepin, Federica Bologna, and Matthew Wilkens 
@@ -79,7 +81,7 @@ Presentation at *University of Naples “L’Orientale” Graduate Conference 20
 
 ---
 
-### TEACHING EXPERIENCE
+#### TEACHING EXPERIENCE
 
 Fall 2025 — Graduate TA, INFO 2950: Introduction to Data Science, Cornell University  
 Fall 2024 — Graduate TA, [INFO 3350: Text Mining for History and Literature](https://github.com/wilkens-teaching/info3350-f24), Cornell University  
@@ -89,7 +91,7 @@ Spring 2022 — Graduate TA, [INFO 3350: Text Mining for History and Literature]
 
 ---
 
-### HONORS, AWARDS & SCHOLARSHIPS
+#### HONORS, AWARDS & SCHOLARSHIPS
 
 2024 — **Microsoft Azure Cloud Computing Grant**, Cornell University  
 2023 — **Outstanding Teaching Award**, Cornell University  
