@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-redirect_to: /contact/
+permalink: /contact/
 ---
 
 📧 <a href="mailto:{{ site.email }}">Email</a> is the best way to contact me

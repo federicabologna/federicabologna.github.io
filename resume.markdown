@@ -4,10 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-# Federica Bologna
-
----
-
 #### EDUCATION
 
 **Cornell University** — *Ph.D. in Information Science*  
