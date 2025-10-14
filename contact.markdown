@@ -4,7 +4,7 @@ title: Contact
 redirect_to: mailto:fb265@cornell.edu
 ---
 
-<a href="mailto:{{ site.email }}">Email</a> is the best way to contact me 🤠
+<!-- <a href="mailto:{{ site.email }}">Email</a> is the best way to contact me 🤠 -->
 <!-- <ul class="contact-list">
     {%- if site.email -%}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{%- endif -%}
     {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">Twitter</a></li>{%- endif -%}          
