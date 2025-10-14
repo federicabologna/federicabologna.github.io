@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[LongQAEval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints]() <br/>
+[LongQAEval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
 Under review <br/>
 
