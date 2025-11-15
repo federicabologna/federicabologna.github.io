@@ -22,15 +22,15 @@ permalink: /resume/
 
 **Allen Institute for Artificial Intelligence** — *PhD Research Intern, Semantic Scholar*  
 *Seattle, WA | June 2025 – Present*  
-- Developed a query reformulation system that increased Asta’s recall of scientific information from 40% to 60% on AstaBench.
+- Developed a query reformulation system that increases Asta’s recall of scientific information in the output from 40% to 60%.
 - Created the Query Reformulation Benchmark to evaluate query reformulation methods by augmenting thousands of pairs of underspecified and refined user queries with few-shot learning.
 - Designing a user study to test the usefulness and relevance of our system’s suggested query reformulations.
 
 **Cornell University** — *LLM & AI Research Scientist*  
 *Ithaca, NY | Aug 2021 – Present*  
+- Designed LongQAEval, a framework for the evaluation of long-from LLM outputs; when prompted with my framework LLM-as-judge agreement with experts increases by 24%, reaching expert-level agreement. 
 - Identified unmet user needs in 15,000+ posts and 300,000+ comments from endometriosis online communities with fine-tuned DistilBERT models and few-shot learning.
-- Demonstrated that readers have no strong preference for character gender using causal inference in a randomized survey experiment with 3,000 participants.
-- Revealed that annotating a few sentences of LLM-generated clinical answers achieves results comparable to full annotations by designing a randomized survey experiment and a framework for assessing LLM-generated outputs under limited resources.
+- Leveraged causal inference to demonstrate that readers have no strong preference for character gender in a randomized survey experiment with 3,000 participants.
 
 **Cornell University** — *Teaching Assistant, Data Science and Machine Learning*  
 *Ithaca, NY | Jan 2024 – Dec 2024*  
@@ -38,7 +38,7 @@ permalink: /resume/
 - Delivered lectures on social media analysis with NLP and statistical techniques for causal effect estimation.
 - Curated a class activity on preprocessing large raw census data and applying ML to predict social outcomes.
 
-**NYC Health + Hospitals** — *Data Scientist Intern*  
+**NYC Health + Hospitals** — *Data Science Intern*  
 *New York City, NY | Jun 2023 – Aug 2023*  
 *Funded by the Siegel Family Endowment PiTech PhD Impact Fellowship*  
 - Identified three alerts frequently overridden by nurses by analyzing around 3,000,000 clinical interruptive alerts.

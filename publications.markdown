@@ -8,17 +8,17 @@ permalink: /publications/
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
 Under review <br/>
 
-[Causal Effect of Character Gender on Readers' Preferences](https://doi.org/10.31235/osf.io/ef9mj_v1) <br/>
+[Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue]()<br/>
+**Federica Bologna**, Anand Reddy, David Silvestri, Michael Bouton <br/>
+Poster at the American Medical Informatics Association (AMIA) Annual Symposium (2025) <br/>
+
+[Causal Effect of Character Gender on Readers' Preferences](https://doi.org/10.63744/hEF2pUnudmPh) <br/>
 **Federica Bologna**, Ian Lundberg, Matthew Wilkens <br/>
 Computational Humanities Research (2025) <br/>
 
 Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_ <br/>
 Giulia Andreoni, **Federica Bologna**, Marilyn Migiel  <br/>
 Early Modern Women: An Interdisciplinary Journal (Forthcoming) <br/>
-
-[Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue]()<br/>
-**Federica Bologna**, Anand Reddy, David Silvestri, Michael Bouton <br/>
-Poster at the American Medical Informatics Association (AMIA) Annual Symposium (2025) <br/>
 
 [Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.2196/57987) <br/>
 **Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
