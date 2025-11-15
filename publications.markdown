@@ -6,7 +6,7 @@ permalink: /publications/
 
 [LongQAEval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
-Under review <br/>
+Submitted to ACL ARR <br/>
 
 [Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue]()<br/>
 **Federica Bologna**, Anand Reddy, David Silvestri, Michael Bouton <br/>
