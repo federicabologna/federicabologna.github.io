@@ -47,31 +47,31 @@ permalink: /resume/
 
 ---
 
-#### PUBLICATIONS  
+#### PUBLICATIONS  (in order of relevance to my current research goals)
 
 [LongQAEval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
 Submitted to ACL ARR <br/>
 
+[Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.2196/57987) <br/>
+**Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
+Journal of Medical Internet Research (2025) <br/>
+
 [Revising BPA triggers and inclusion criteria helps reduce nurses’ fatigue]()<br/>
 **Federica Bologna**, Anand Reddy, David Silvestri, Michael Bouton <br/>
 Poster at the American Medical Informatics Association (AMIA) Annual Symposium (2025) <br/>
 
-[Causal Effect of Character Gender on Readers' Preferences](https://doi.org/10.63744/hEF2pUnudmPh) <br/>
+[Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online](https://doi.org/10.1016/j.jmig.2024.08.001) <br/>
+Kristen Pepin, **Federica Bologna**, Rosamond Thalken, Matthew Wilkens <br/>
+Journal of Minimally Invasive Gynecology (2024) <br/>
+
+[Causal Effect of Character Gender on Readers' Preferences](https://anthology.ach.org/volumes/vol0003/causal-effect-of-character-gender-on-readers/) <br/>
 **Federica Bologna**, Ian Lundberg, Matthew Wilkens <br/>
 Computational Humanities Research (2025) <br/>
 
 Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_ <br/>
 Giulia Andreoni, **Federica Bologna**, Marilyn Migiel  <br/>
 Early Modern Women: An Interdisciplinary Journal (Forthcoming) <br/>
-
-[Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.2196/57987) <br/>
-**Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
-Journal of Medical Internet Research (2025) <br/>
-
-[Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online](https://doi.org/10.1016/j.jmig.2024.08.001) <br/>
-Kristen Pepin, **Federica Bologna**, Rosamond Thalken, Matthew Wilkens <br/>
-Journal of Minimally Invasive Gynecology (2024) <br/>
 
 [Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}  <br/>
 **Federica Bologna**, Angelo Di Iorio, Silvio Peroni, and Francesco Poggi  <br/>
