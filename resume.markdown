@@ -65,7 +65,7 @@ Poster at the American Medical Informatics Association (AMIA) Annual Symposium (
 Kristen Pepin, **Federica Bologna**, Rosamond Thalken, Matthew Wilkens <br/>
 Journal of Minimally Invasive Gynecology (2024) <br/>
 
-[Causal Effect of Character Gender on Readers' Preferences](https://anthology.ach.org/volumes/vol0003/causal-effect-of-character-gender-on-readers/) <br/>
+[Causal Effect of Character Gender on Readers' Preferences](https://doi.org/10.63744/hEF2pUnudmPh) <br/>
 **Federica Bologna**, Ian Lundberg, Matthew Wilkens <br/>
 Computational Humanities Research (2025) <br/>
 
