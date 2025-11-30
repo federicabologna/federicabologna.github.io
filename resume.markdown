@@ -22,7 +22,7 @@ permalink: /resume/
 
 **Allen Institute for Artificial Intelligence** — *PhD Research Intern, Semantic Scholar*  
 *Seattle, WA | June 2025 – Present*  
-- Developed a query reformulation system that increases Asta’s recall of scientific information in the output from 40% to 60%.
+- Developed a query reformulation system that increases Asta’s recall of scientific information in the output by 50%.
 - Created the Query Reformulation Benchmark to evaluate query reformulation methods by augmenting thousands of pairs of underspecified and refined user queries with few-shot learning.
 - Designing a user study to test the usefulness and relevance of our system’s suggested query reformulations.
 
