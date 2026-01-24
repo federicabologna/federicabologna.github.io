@@ -16,6 +16,14 @@ permalink: /resume/
 *Ithaca, NY, 2024*  
 - GPA: **4.00 / 4.00**
 
+**University of Bologna** — *M.A. in Comparative Literature*  
+*Bologna, Italy, 2020*   
+- GPA: **110.00 / 110.00** cum laude
+
+**University of Bologna** — *B.A. in Foreign Languages and Literatures*  
+*Bologna, Italy, 2017*  
+- GPA: **110.00 / 110.00** cum laude
+
 ---
 
 #### RESEARCH & PROFESSIONAL EXPERIENCE
@@ -108,7 +116,6 @@ Main Stage Presentation at the 2023 Global Congress of the [American Association
 Long Presentation at [DH2022](https://dh2022.adho.org/program/presentations)  
 
 **Analyzing Urban Space’s Presence in Science Fiction Using Token Counts**  
-Federica Bologna
 Presentation at *University of Naples “L’Orientale” Graduate Conference 2020*
 
 ---
