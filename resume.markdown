@@ -30,13 +30,13 @@ permalink: /resume/
 
 **Allen Institute for Artificial Intelligence** — *PhD Research Intern, Semantic Scholar*  
 *Seattle, WA | June 2025 – Present*  
-- Developed a query reformulation system that increases Asta’s recall of scientific information in the output by 50%.
-- Created the Query Reformulation Benchmark to evaluate query reformulation methods by augmenting thousands of pairs of underspecified and refined user queries with few-shot learning.
-- Designing a user study to test the usefulness and relevance of our system’s suggested query reformulations.
+- Developed a query reformulation system that increases the recall of scientific information in the output of the Asta AI research assistant by 50%.
+- Built two automatic evaluation pipelines leveraging expert-curated and augmented user data in order to iteratively test and improve model performance.
+- Designed a user study to measure the usefulness and relevance of our system’s suggested query reformulations.
 
 **Cornell University** — *LLM & AI Research Scientist*  
 *Ithaca, NY | Aug 2021 – Present*  
-- Designed LongQAEval, a framework for the evaluation of long-from LLM outputs; when prompted with my framework LLM-as-judge agreement with experts increases by 24%, reaching expert-level agreement. 
+- Designed a framework for the evaluation of long-form LLM outputs; when prompted with my framework LLM-as-judge agreement with experts increases by 24%, reaching expert-level agreement.
 - Identified unmet user needs in 15,000+ posts and 300,000+ comments from endometriosis online communities with fine-tuned DistilBERT models and few-shot learning.
 - Leveraged causal inference to demonstrate that readers have no strong preference for character gender in a randomized survey experiment with 3,000 participants.
 
@@ -57,9 +57,13 @@ permalink: /resume/
 
 #### PUBLICATIONS  (in order of relevance to my current research goals)
 
-[LongQAEval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
+[VERT: Reliable LLM Judges for Radiology Report Evaluation](https://arxiv.org/abs/2604.03376) <br/>
+**Federica Bologna**, Jean-Philippe Corbeil, Matthew Wilkens, Asma Ben Abacha <br/>
+Submitted to COLM (2026) <br/>
+
+[CQA-Eval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
-Submitted to ACL ARR <br/>
+Submitted to ACL ARR (2026) <br/>
 
 [Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.2196/57987) <br/>
 **Federica Bologna**, Rosamond Thalken, Kristen Pepin, Matthew Wilkens <br/>
@@ -69,25 +73,9 @@ Journal of Medical Internet Research (2025) <br/>
 **Federica Bologna**, Anand Reddy, David Silvestri, Michael Bouton <br/>
 Poster at the American Medical Informatics Association (AMIA) Annual Symposium (2025) <br/>
 
-[Endometriosis Online Communities: How Machine Learning Can Help Physicians Understand What Patients Are Discussing Online](https://doi.org/10.1016/j.jmig.2024.08.001) <br/>
-Kristen Pepin, **Federica Bologna**, Rosamond Thalken, Matthew Wilkens <br/>
-Journal of Minimally Invasive Gynecology (2024) <br/>
-
-[Causal Effect of Character Gender on Readers' Preferences](https://doi.org/10.63744/hEF2pUnudmPh) <br/>
+[Causal Effect of Character Gender on Readers’ Preferences](https://doi.org/10.63744/hEF2pUnudmPh) <br/>
 **Federica Bologna**, Ian Lundberg, Matthew Wilkens <br/>
 Computational Humanities Research (2025) <br/>
-
-Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_ <br/>
-Giulia Andreoni, **Federica Bologna**, Marilyn Migiel  <br/>
-Early Modern Women: An Interdisciplinary Journal (Forthcoming) <br/>
-
-[Do open citations give insights on the qualitative peer-review evaluation in research assessments? An analysis of the Italian National Scientific Qualification](https://doi.org/10.1007/s11192-022-04581-6){:target="_blank"}  <br/>
-**Federica Bologna**, Angelo Di Iorio, Silvio Peroni, and Francesco Poggi  <br/>
-Scientometrics (2022) <br/>
-
-[Open bibliographic data and the Italian National Scientific Qualification: measuring coverage of academic fields](https://doi.org/10.1162/qss_a_00203){:target="_blank"}  <br/>
-**Federica Bologna**, Angelo Di Iorio, Silvio Peroni, and Francesco Poggi  <br/>
-Quantitative Science Studies (2022) <br/>
 
 [A Computational Approach to Urban Space in Science Fiction](https://doi.org/10.22148/001c.18120){:target="_blank"}   
 **Federica Bologna** <br/>

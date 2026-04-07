@@ -4,9 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-[LongQAEval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
+[VERT: Reliable LLM Judges for Radiology Report Evaluation](https://arxiv.org/abs/2604.03376) <br/>
+**Federica Bologna**, Jean-Philippe Corbeil, Matthew Wilkens, Asma Ben Abacha <br/>
+Submitted to COLM (2026) <br/>
+
+[CQA-Eval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
-Submitted to ACL ARR <br/>
+Submitted to ACL ARR (2026) <br/>
 
 Stylometric Analysis of the Poems Attributed to an Unknown Male Author in Veronica Franco’s _Terze Rime_ <br/>
 Giulia Andreoni, **Federica Bologna**, Marilyn Migiel  <br/>
