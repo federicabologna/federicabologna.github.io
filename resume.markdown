@@ -15,6 +15,7 @@ permalink: /resume/
 **Cornell University** — *M.S. in Information Science*  
 *Ithaca, NY, 2024*  
 - GPA: **4.00 / 4.00**
+- Expected, flexible graduation date: December 2026
 
 **University of Bologna** — *M.A. in Comparative Literature*  
 *Bologna, Italy, 2020*   
@@ -28,8 +29,14 @@ permalink: /resume/
 
 #### RESEARCH & PROFESSIONAL EXPERIENCE
 
+**Microsoft** - *PhD Research Intern, Nursing AI - Dragon Copilot*
+*Redmond, WA | May 2026 – Aug 2026*
+- Built a pipeline that automatically fine-tunes the nursing AI scribe to hospital-specific needs via prompt optimization.
+- Improved nursing documentation accuracy up to 44 percentage points using the AI-optimized prompts.
+- Presented results to the HLS organization including the Partner Applied Science Manager and Corporate VP.
+
 **Allen Institute for Artificial Intelligence** — *PhD Research Intern, Semantic Scholar*  
-*Seattle, WA | June 2025 – Present*  
+*Seattle, WA | Jun 2025 – Apr 2026*  
 - Developed a query reformulation system that increases the recall of scientific information in the output of the Asta AI research assistant by 50%.
 - Built two automatic evaluation pipelines leveraging expert-curated and augmented user data in order to iteratively test and improve model performance.
 - Designed a user study to measure the usefulness and relevance of our system’s suggested query reformulations.
@@ -59,7 +66,7 @@ permalink: /resume/
 
 [VERT: Reliable LLM Judges for Radiology Report Evaluation](https://arxiv.org/abs/2604.03376) <br/>
 **Federica Bologna**, Jean-Philippe Corbeil, Matthew Wilkens, Asma Ben Abacha <br/>
-Submitted to COLM (2026) <br/>
+Submitted to ACL ARR (2026) <br/>
 
 [CQA-Eval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) <br/>
 **Federica Bologna**, Tiffany Pan, Matthew Wilkens, Yue Guo, Lucy Lu Wang <br/>
