@@ -31,11 +31,12 @@ I strive to ground my work through the theoretical frameworks of ethics of care 
 ## News
 
 | ---- | --------- |
+| Aug 2026 | My paper [CQA-Eval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) was accepted to [EMNLP 2026 Findings](https://2026.emnlp.org/)
 | Mar 2026 | Joining Microsoft as PhD Research Intern working on Dragon Copilot for Nursing this Summer!
-| Jan 2026 | The [Cornell Chronicle](https://news.cornell.edu/stories/2026/01/readers-just-want-good-stories-regardless-characters-gender) covered my paper on gender and readership and I was invited to speak about it on [The Last Show with David Cooper](https://open.spotify.com/episode/6LoyZOYXsI83B4Qy3AOGfh?si=620b5c0a08254d37).
+| Jan 2026 | The [Cornell Chronicle](https://news.cornell.edu/stories/2026/01/readers-just-want-good-stories-regardless-characters-gender) covered my paper on gender and readership and I was invited to speak about it on [The Last Show with David Cooper](https://open.spotify.com/episode/6LoyZOYXsI83B4Qy3AOGfh?si=620b5c0a08254d37)
 | Dec 2025 | My Research Intern position at the Allen Institute for AI is extended until April 2026
-| Sep 2025 | My paper ["Causal Effect of Character Gender on Readers' Preferences"](https://doi.org/10.31235/osf.io/ef9mj_v1) is accepted to [CHR 2025](https://2025.computational-humanities-research.org/)!
-| Feb 2025 | [Paper published in the _Journal of Medical Internet Research_!](https://doi.org/10.1101/2024.02.27.24303445)
+| Sep 2025 | My paper [Causal Effect of Character Gender on Readers' Preferences](https://doi.org/10.31235/osf.io/ef9mj_v1) was accepted to [CHR 2025](https://2025.computational-humanities-research.org/)
+| Feb 2025 | My paper [Endometriosis Online Communities: A Quantitative Analysis](https://doi.org/10.1101/2024.02.27.24303445) was published in the _Journal of Medical Internet Research_!
 
 <!-- ## Summary of my research
 At [the Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org/), I’m developing a system that assists users of [ScholarQA](https://scholarqa.allen.ai/) with refining their scientific questions by recommending reformulated research questions under the guidance of [Jay DeYoung](https://scholar.google.com/citations?user=f8aP6RMAAAAJ&hl=en).
