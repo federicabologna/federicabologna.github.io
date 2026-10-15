@@ -31,6 +31,7 @@ I strive to ground my work through the theoretical frameworks of ethics of care 
 ## News
 
 | ---- | --------- |
+| Oct 2026 | I am presenting my poster on CQA-Eval at EMNLP 2026 in Budapest! See you there :)
 | Aug 2026 | My paper [CQA-Eval: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints](https://arxiv.org/abs/2510.10415) was accepted to [EMNLP 2026 Findings](https://2026.emnlp.org/)
 | Mar 2026 | Joining Microsoft as PhD Research Intern working on Dragon Copilot for Nursing this Summer!
 | Jan 2026 | The [Cornell Chronicle](https://news.cornell.edu/stories/2026/01/readers-just-want-good-stories-regardless-characters-gender) covered my paper on gender and readership and I was invited to speak about it on [The Last Show with David Cooper](https://open.spotify.com/episode/6LoyZOYXsI83B4Qy3AOGfh?si=620b5c0a08254d37)
